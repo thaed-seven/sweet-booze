@@ -8,7 +8,8 @@ const users = [
   },
   {
     id: Math.random().toString(36).substr(2, 9),
-    nome: "Bianca", senha: 666
+    nome: "Bianca",
+    senha: 666
   },
   {
     id: Math.random().toString(36).substr(2, 9),
